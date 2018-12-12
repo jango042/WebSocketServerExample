@@ -1,0 +1,9 @@
+server\ws\WebsocketServer.class
+server\ws\WsServer.class
+server\ws\Message.class
+server\ws\MessageDecoder.class
+server\ws\Messages.class
+server\ws\JSONUtils.class
+server\ws\UserInfo.class
+server\ws\UserModel.class
+server\ws\MessageEncoder.class
